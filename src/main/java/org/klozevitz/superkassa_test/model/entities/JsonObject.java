@@ -1,4 +1,4 @@
-package org.klozevitz.superkassa_test.model.services;
+package org.klozevitz.superkassa_test.model.entities;
 
 import java.io.Serializable;
 
